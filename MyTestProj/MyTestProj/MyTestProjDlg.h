@@ -31,4 +31,5 @@ protected:
 	DECLARE_MESSAGE_MAP()
 public:
 	CString m_strTest;
+	CString m_str_t;
 };
